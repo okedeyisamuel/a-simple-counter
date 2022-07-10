@@ -1,0 +1,25 @@
+* {
+  padding: 0;
+  border: 0;
+  box-sizing: border-box;
+}
+body {
+  background-color: #eaf6f6;
+}
+.btn {
+  padding: 0.35rem;
+  background-color: #b2c8df;
+  border-radius: 0.2rem;
+}
+.btn:hover {
+  background-color: #6e85b7;
+}
+#span {
+  font-size: 30px;
+  margin-bottom: 0.25rem;
+}
+.container {
+  display: flex;
+  flex-direction: column;
+  /* margin: 50vh auto; */
+}
